@@ -16,6 +16,7 @@
         "@fortawesome/fontawesome-svg-core": "^6.5.2",
         "@fortawesome/free-solid-svg-icons": "^6.5.2",
         "@fortawesome/react-fontawesome": "github:fortawesome/react-fontawesome",
+        "dotenv": "^16.4.5",
         "lodash": "^4.17.21",
         "lodash-es": "^4.17.21",
         "microsoft-cognitiveservices-speech-sdk": "^1.36.0",
